@@ -1,3 +1,3 @@
 Hello,
 
-Je découvre Git !
+Je découvre Git et Github !
